@@ -14,7 +14,7 @@ __Kelas : TI.20.A.1__
 | No | ISI | Link | Source Code |
 | -- | --- | ---- | ----------- |
 | 1. | Latihan 1 | [lihat](https://github.com/nahrulwijaya/project7-1/blob/main/README.md) | [Code](https://github.com/nahrulwijaya/project7-1/blob/main/hasil-1.py) |
-| 2. | Latihan 2 | [lihat](https://github.com/nahrulwijaya/project7-1/blob/main/README.md)| [Code] (https://github.com/nahrulwijaya/project7-1/blob/main/hasil-2.py) |
+| 2. | Latihan 2 | [lihat](https://github.com/nahrulwijaya/project7-1/blob/main/README.md)| [Code](https://github.com/nahrulwijaya/project7-1/blob/main/hasil-2.py) |
 
 ### Latihan 1 
 * Saya diberikan tugas untuk membuat program perulangan bersarang/bertingkat (nested for) yang menghasilkan output berikut
