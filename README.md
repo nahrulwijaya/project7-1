@@ -114,5 +114,5 @@ angkaDec = random.uniform(0, 0.5)
 
 Maka program yang dihasilkan akan seperti berikut
 
-![tampil 2](gambar/hasil2.png)
+![tampil 2](gambar/2.png)
 
