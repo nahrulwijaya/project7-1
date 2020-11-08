@@ -59,7 +59,7 @@ print()
 
 Maka program yang di hasil seperti berikut
 
-![tampil1](gambar/hasil1.png)
+![tampil1](gambar/1.png)
 
 
 ### Latihan 2
