@@ -13,15 +13,15 @@ __Kelas : TI.20.A.1__
 ## Daftar Isi
 | No | ISI | Link | Source Code |
 | -- | --- | ---- | ----------- |
-| 1. | Latihan 1 | [lihat](https://github.com/nahrulwijaya/project7-1/blob/main/README.md) | [Code](https://github.com/PUTERIALIFIA/project7/blob/main/project7-latihan1.py) |
-| 2. | Latihan 2 | [lihat](https://github.com/nahrulwijaya/project7-1/blob/main/README.md)| [Code](https://github.com/PUTERIALIFIA/project7/blob/main/project7-latihan2.py) |
+| 1. | Latihan 1 | [lihat](https://github.com/nahrulwijaya/project7-1/blob/main/README.md) | [Code](https://github.com/nahrulwijaya/project7-1/blob/main/hasil-1.py) |
+| 2. | Latihan 2 | [lihat](https://github.com/nahrulwijaya/project7-1/blob/main/README.md)| [Code] (https://github.com/nahrulwijaya/project7-1/blob/main/hasil-2.py) |
 
 ### Latihan 1 
 * Saya diberikan tugas untuk membuat program perulangan bersarang/bertingkat (nested for) yang menghasilkan output berikut
 
 ![tugas1](gambar/tampilan1.png)
 
-Maka program yang saya buat sebagai berikut atau bisa dilihat di [Source Code](https://github.com/PUTERIALIFIA/project7/blob/main/project7-latihan1.py)
+Maka program yang saya buat sebagai berikut atau bisa dilihat di [Source Code](https://github.com/nahrulwijaya/project7-1/blob/main/hasil-1.py)
 
 ```python
 baris = 10
@@ -73,7 +73,7 @@ Seperti pada gambar berikut
 ![output 2](gambar/tampilan3.png)
 
 
-Maka program yang saya buat sebagai berikut atau bisa dilihat di [Source Code](https://github.com/PUTERIALIFIA/project7/blob/main/project7-latihan2.py)
+Maka program yang saya buat sebagai berikut atau bisa dilihat di [Source Code](https://github.com/nahrulwijaya/project7-1/blob/main/hasil-2.py)
 
 ```python
 import random
